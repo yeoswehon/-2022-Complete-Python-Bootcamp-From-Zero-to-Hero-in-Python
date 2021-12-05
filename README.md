@@ -57,3 +57,7 @@ d.keys() k1 k2 k3
 d.values() 100 200 300
 
 d.items() tuples k1 paired 100, k2 paired 200, etc
+  
+type function reveals the data type
+ 
+help function reveals the python documentation syntax
